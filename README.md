@@ -42,7 +42,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **RUBY**
+- **RUBY methods**
+  -add?
+  -any?
+  -filter?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +72,7 @@ Install this project with:
 
 To run the project, execute the following command in your Terminal:
 
-`ruby my_enumerable.rb`
+`ruby index.rb`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +97,7 @@ To run the project, execute the following command in your Terminal:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<!-- - [ ] **Prompt to add your msg** -->
+- [ ] **We will be adding finding max and min values in the list**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
