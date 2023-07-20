@@ -69,7 +69,7 @@ Install this project with:
 
 To run the project, execute the following command in your Terminal:
 
-`ruby enumerable.rb`
+`ruby my_enumerable.rb`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
