@@ -3,7 +3,7 @@ require './my_enumerable'
 class MyList
   include MyEnumerable
 
-  def initilize(*list)
+  def initialize(*list)
     @list = list
   end
 
