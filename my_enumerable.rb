@@ -1,6 +1,5 @@
 # This module provides custom enumerable methods for arrays and other enumerable objects.
 module MyEnumerable
-
   # Checks if a specific condition is true for all elements in the enumerable object.
   def all?(&block)
     each { |item| return false unless block.call(item) }
