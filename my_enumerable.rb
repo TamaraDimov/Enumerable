@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # This module provides custom enumerable methods for arrays and other enumerable objects.
 module MyEnumerable
 
