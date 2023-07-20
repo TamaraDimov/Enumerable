@@ -123,11 +123,13 @@ If you like this project ⭐️ it
 
 ## ❓ FAQ <a name="faq"></a>
 
+- Can you include more methods in this project?
+Answer : We will think about your great suggestion, thank you.
+
 <!-- - **Can we use for decoding our msg?**
 
   - We will include promp very soon. -->
   <!--
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
